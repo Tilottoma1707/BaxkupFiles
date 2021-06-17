@@ -7,7 +7,7 @@ def main():
 	deleted_folders_count = 0
 	deleted_files_count = 0
 
-	path = "/PATH_TO_DELETE"
+	path = "D:/WHITHAT/BackupTestDraft"
 
 	days = 30
 
